@@ -1,0 +1,302 @@
+[
+    {
+        "query_id": 1,
+        "query": "半導体需要の拡大",
+        "causal_search_direction": "c2e",
+        "depth": 3,
+        "branch": 4, 
+        "start_date_int": 20210101,
+        "end_date_int": 20241031,
+        "similarity_threshold": 0.8
+    },
+    {
+        "query_id": 2,
+        "query": "温室効果ガスの排出量規制",
+        "causal_search_direction": "c2e",
+        "depth": 3,
+        "branch": 4, 
+        "start_date_int": 20140101,
+        "end_date_int": 20241031,
+        "similarity_threshold": 0.8
+    },
+    {
+        "query_id": 3,
+        "query": "米国と中国の貿易摩擦",
+        "causal_search_direction": "c2e",
+        "depth": 3,
+        "branch": 4, 
+        "start_date_int": 20180101,
+        "end_date_int": 20231231,
+        "similarity_threshold": 0.8
+    },
+    {
+        "query_id": 4,
+        "query": "日本銀行の金融緩和",
+        "causal_search_direction": "c2e",
+        "depth": 3,
+        "branch": 4, 
+        "start_date_int": 20220101,
+        "end_date_int": 20241031,
+        "similarity_threshold": 0.8
+    },
+    {
+        "query_id": 5,
+        "query": "金融引き締めの強化",
+        "causal_search_direction": "c2e",
+        "depth": 3,
+        "branch": 4, 
+        "start_date_int": 20210101,
+        "end_date_int": 20241031,
+        "similarity_threshold": 0.8
+    },
+    {
+        "query_id": 6,
+        "query": "世界的なインフレ傾向",
+        "causal_search_direction": "c2e",
+        "depth": 3,
+        "branch": 4, 
+        "start_date_int": 20220101,
+        "end_date_int": 20241031,
+        "similarity_threshold": 0.8
+    },
+    {
+        "query_id": 7,
+        "query": "感染症の拡大",
+        "causal_search_direction": "c2e",
+        "depth": 3,
+        "branch": 4, 
+        "start_date_int": 20200101,
+        "end_date_int": 20241031,
+        "similarity_threshold": 0.8
+    },
+    {
+        "query_id": 8,
+        "query": "地震等災害の損害",
+        "causal_search_direction": "c2e",
+        "depth": 3,
+        "branch": 4, 
+        "start_date_int": 20150101,
+        "end_date_int": 20241031,
+        "similarity_threshold": 0.8
+    },
+    {
+        "query_id": 9,
+        "query": "少子高齢化",
+        "causal_search_direction": "c2e",
+        "depth": 3,
+        "branch": 4, 
+        "start_date_int": 20150101,
+        "end_date_int": 20241031,
+        "similarity_threshold": 0.8
+    },
+    {
+        "query_id": 10,
+        "query": "人工知能技術の進歩",
+        "causal_search_direction": "c2e",
+        "depth": 3,
+        "branch": 4, 
+        "start_date_int": 20190101,
+        "end_date_int": 20241031,
+        "similarity_threshold": 0.8
+    },
+    {
+        "query_id": 11,
+        "query": "ロシアのウクライナ侵攻",
+        "causal_search_direction": "c2e",
+        "depth": 3,
+        "branch": 4, 
+        "start_date_int": 20220101,
+        "end_date_int": 20241031,
+        "similarity_threshold": 0.8
+    },
+    {
+        "query_id": 12,
+        "query": "医療費抑制政策の実施",
+        "causal_search_direction": "c2e",
+        "depth": 3,
+        "branch": 4, 
+        "start_date_int": 20150101,
+        "end_date_int": 20241031,
+        "similarity_threshold": 0.8
+    },
+    {
+        "query_id": 13,
+        "query": "ビッグデータの活用拡大",
+        "causal_search_direction": "c2e",
+        "depth": 3,
+        "branch": 4, 
+        "start_date_int": 20140101,
+        "end_date_int": 20241031,
+        "similarity_threshold": 0.8
+    },
+    {
+        "query_id": 14,
+        "query": "女性の活躍促進",
+        "causal_search_direction": "c2e",
+        "depth": 3,
+        "branch": 4, 
+        "start_date_int": 20130101,
+        "end_date_int": 20241031,
+        "similarity_threshold": 0.8
+    },
+    {
+        "query_id": 15,
+        "query": "政府の観光推進政策",
+        "causal_search_direction": "c2e",
+        "depth": 3,
+        "branch": 4, 
+        "start_date_int": 20220101,
+        "end_date_int": 20241031,
+        "similarity_threshold": 0.8
+    },
+    {
+        "query_id": 16,
+        "query": "自動運転の実用化",
+        "causal_search_direction": "c2e",
+        "depth": 3,
+        "branch": 4, 
+        "start_date_int": 20200101,
+        "end_date_int": 20241031,
+        "similarity_threshold": 0.8
+    },
+    {
+        "query_id": 17,
+        "query": "電気料金の値上げ",
+        "causal_search_direction": "c2e",
+        "depth": 3,
+        "branch": 4, 
+        "start_date_int": 20210101,
+        "end_date_int": 20241031,
+        "similarity_threshold": 0.8
+    },
+    {
+        "query_id": 18,
+        "query": "ＩＴ投資の活性化",
+        "causal_search_direction": "c2e",
+        "depth": 3,
+        "branch": 4, 
+        "start_date_int": 20170101,
+        "end_date_int": 20241031,
+        "similarity_threshold": 0.8
+    },
+    {
+        "query_id": 19,
+        "query": "東京オリンピックの開催",
+        "causal_search_direction": "c2e",
+        "depth": 3,
+        "branch": 4, 
+        "start_date_int": 20150101,
+        "end_date_int": 20241031,
+        "similarity_threshold": 0.8
+    },
+    {
+        "query_id": 20,
+        "query": "消費増税",
+        "causal_search_direction": "c2e",
+        "depth": 3,
+        "branch": 4, 
+        "start_date_int": 20170101,
+        "end_date_int": 20221231,
+        "similarity_threshold": 0.8
+    },
+    {
+        "query_id": 21,
+        "query": "都市部のマンション価格の高騰",
+        "causal_search_direction": "c2e",
+        "depth": 3,
+        "branch": 4, 
+        "start_date_int": 20200101,
+        "end_date_int": 20241031,
+        "similarity_threshold": 0.8
+    },
+    {
+        "query_id": 22,
+        "query": "歴史的な円安進行",
+        "causal_search_direction": "c2e",
+        "depth": 3,
+        "branch": 4, 
+        "start_date_int": 20210101,
+        "end_date_int": 20241031,
+        "similarity_threshold": 0.8
+    },
+    {
+        "query_id": 23,
+        "query": "原油価格の高騰",
+        "causal_search_direction": "c2e",
+        "depth": 3,
+        "branch": 4, 
+        "start_date_int": 20180101,
+        "end_date_int": 20241031,
+        "similarity_threshold": 0.8
+    },
+    {
+        "query_id": 24,
+        "query": "電気自動車の普及",
+        "causal_search_direction": "c2e",
+        "depth": 3,
+        "branch": 4, 
+        "start_date_int": 20150101,
+        "end_date_int": 20241031,
+        "similarity_threshold": 0.8
+    },
+    {
+        "query_id": 25,
+        "query": "英国のＥＵ離脱",
+        "causal_search_direction": "c2e",
+        "depth": 3,
+        "branch": 4, 
+        "start_date_int": 20170101,
+        "end_date_int": 20221231,
+        "similarity_threshold": 0.8
+    },
+    {
+        "query_id": 26,
+        "query": "インバウンドの増加",
+        "causal_search_direction": "c2e",
+        "depth": 3,
+        "branch": 4, 
+        "start_date_int": 20150101,
+        "end_date_int": 20201231,
+        "similarity_threshold": 0.8
+    },
+    {
+        "query_id": 27,
+        "query": "暗号資産価格の高騰",
+        "causal_search_direction": "c2e",
+        "depth": 3,
+        "branch": 4, 
+        "start_date_int": 20170101,
+        "end_date_int": 20211231,
+        "similarity_threshold": 0.8
+    },
+    {
+        "query_id": 28,
+        "query": "ｅコマース市場の成長",
+        "causal_search_direction": "c2e",
+        "depth": 3,
+        "branch": 4, 
+        "start_date_int": 20140101,
+        "end_date_int": 20241031,
+        "similarity_threshold": 0.8
+    },
+    {
+        "query_id": 29,
+        "query": "国土強靭化のための対策実施",
+        "causal_search_direction": "c2e",
+        "depth": 3,
+        "branch": 4, 
+        "start_date_int": 20190101,
+        "end_date_int": 20241031,
+        "similarity_threshold": 0.8
+    },
+    {
+        "query_id": 30,
+        "query": "マイナス金利導入",
+        "causal_search_direction": "c2e",
+        "depth": 3,
+        "branch": 4, 
+        "start_date_int": 20150101,
+        "end_date_int": 20181231,
+        "similarity_threshold": 0.8
+    }
+]

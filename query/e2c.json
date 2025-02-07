@@ -1,0 +1,302 @@
+[
+    {
+        "query_id": 1,
+        "query": "材料仕入価格の高騰",
+        "causal_search_direction": "e2c",
+        "depth": 3,
+        "branch": 4, 
+        "start_date_int": 20190101,
+        "end_date_int": 20241031,
+        "similarity_threshold": 0.8
+    },
+    {
+        "query_id": 2,
+        "query": "ＩＴ投資の活性化",
+        "causal_search_direction": "e2c",
+        "depth": 3,
+        "branch": 4, 
+        "start_date_int": 20150101,
+        "end_date_int": 20241031,
+        "similarity_threshold": 0.8
+    },
+    {
+        "query_id": 3,
+        "query": "賃金の改善",
+        "causal_search_direction": "e2c",
+        "depth": 3,
+        "branch": 4, 
+        "start_date_int": 20140101,
+        "end_date_int": 20241031,
+        "similarity_threshold": 0.8
+    },
+    {
+        "query_id": 4,
+        "query": "消費者の節約志向の高まり",
+        "causal_search_direction": "e2c",
+        "depth": 3,
+        "branch": 4, 
+        "start_date_int": 20190101,
+        "end_date_int": 20241031,
+        "similarity_threshold": 0.8
+    },
+    {
+        "query_id": 5,
+        "query": "デジタル化の推進",
+        "causal_search_direction": "e2c",
+        "depth": 3,
+        "branch": 4, 
+        "start_date_int": 20200101,
+        "end_date_int": 20241031,
+        "similarity_threshold": 0.8
+    },
+    {
+        "query_id": 6,
+        "query": "米国と中国の貿易摩擦",
+        "causal_search_direction": "e2c",
+        "depth": 3,
+        "branch": 4, 
+        "start_date_int": 20180101,
+        "end_date_int": 20231231,
+        "similarity_threshold": 0.8
+    },
+    {
+        "query_id": 7,
+        "query": "歴史的な円安進行",
+        "causal_search_direction": "e2c",
+        "depth": 3,
+        "branch": 4, 
+        "start_date_int": 20210101,
+        "end_date_int": 20241031,
+        "similarity_threshold": 0.8
+    },
+    {
+        "query_id": 8,
+        "query": "世界的な金融引き締め政策の実施",
+        "causal_search_direction": "e2c",
+        "depth": 3,
+        "branch": 4, 
+        "start_date_int": 20210101,
+        "end_date_int": 20241031,
+        "similarity_threshold": 0.8
+    },
+    {
+        "query_id": 9,
+        "query": "企業のＤＸ推進",
+        "causal_search_direction": "e2c",
+        "depth": 3,
+        "branch": 4, 
+        "start_date_int": 20160101,
+        "end_date_int": 20241031,
+        "similarity_threshold": 0.8
+    },
+    {
+        "query_id": 10,
+        "query": "海外投資家による日本の不動産投資",
+        "causal_search_direction": "e2c",
+        "depth": 3,
+        "branch": 4, 
+        "start_date_int": 20180101,
+        "end_date_int": 20241031,
+        "similarity_threshold": 0.8
+    },
+    {
+        "query_id": 11,
+        "query": "資源価格の高止まり",
+        "causal_search_direction": "e2c",
+        "depth": 3,
+        "branch": 4, 
+        "start_date_int": 20210101,
+        "end_date_int": 20241031,
+        "similarity_threshold": 0.8
+    },
+    {
+        "query_id": 12,
+        "query": "半導体の供給不足",
+        "causal_search_direction": "e2c",
+        "depth": 3,
+        "branch": 4, 
+        "start_date_int": 20210101,
+        "end_date_int": 20241031,
+        "similarity_threshold": 0.8
+    },
+    {
+        "query_id": 13,
+        "query": "中食市場の増大",
+        "causal_search_direction": "e2c",
+        "depth": 3,
+        "branch": 4, 
+        "start_date_int": 20200101,
+        "end_date_int": 20241031,
+        "similarity_threshold": 0.8
+    },
+    {
+        "query_id": 14,
+        "query": "FRBの利下げ",
+        "causal_search_direction": "e2c",
+        "depth": 3,
+        "branch": 4, 
+        "start_date_int": 20190101,
+        "end_date_int": 20241031,
+        "similarity_threshold": 0.8
+    },
+    {
+        "query_id": 15,
+        "query": "原油価格急落",
+        "causal_search_direction": "e2c",
+        "depth": 3,
+        "branch": 4, 
+        "start_date_int": 20150101,
+        "end_date_int": 20191231,
+        "similarity_threshold": 0.8
+    },
+    {
+        "query_id": 16,
+        "query": "新興国経済の低迷",
+        "causal_search_direction": "e2c",
+        "depth": 3,
+        "branch": 4, 
+        "start_date_int": 20140101,
+        "end_date_int": 20191231,
+        "similarity_threshold": 0.8
+    },
+    {
+        "query_id": 17,
+        "query": "日本の国内総生産の伸び悩み",
+        "causal_search_direction": "e2c",
+        "depth": 3,
+        "branch": 4, 
+        "start_date_int": 20130101,
+        "end_date_int": 20241031,
+        "similarity_threshold": 0.8
+    },
+    {
+        "query_id": 18,
+        "query": "生活防衛意識の高まり",
+        "causal_search_direction": "e2c",
+        "depth": 3,
+        "branch": 4, 
+        "start_date_int": 20140101,
+        "end_date_int": 20191231,
+        "similarity_threshold": 0.8
+    },
+    {
+        "query_id": 19,
+        "query": "産業構造の変化",
+        "causal_search_direction": "e2c",
+        "depth": 3,
+        "branch": 4, 
+        "start_date_int": 20160101,
+        "end_date_int": 20241031,
+        "similarity_threshold": 0.8
+    },
+    {
+        "query_id": 20,
+        "query": "中国の経済成長鈍化",
+        "causal_search_direction": "e2c",
+        "depth": 3,
+        "branch": 4, 
+        "start_date_int": 20190101,
+        "end_date_int": 20241031,
+        "similarity_threshold": 0.8
+    },
+    {
+        "query_id": 21,
+        "query": "為替相場の急激な変動",
+        "causal_search_direction": "e2c",
+        "depth": 3,
+        "branch": 4, 
+        "start_date_int": 20210101,
+        "end_date_int": 20241031,
+        "similarity_threshold": 0.8
+    },
+    {
+        "query_id": 22,
+        "query": "スマートフォンの普及",
+        "causal_search_direction": "e2c",
+        "depth": 3,
+        "branch": 4, 
+        "start_date_int": 20130101,
+        "end_date_int": 20221231,
+        "similarity_threshold": 0.8
+    },
+    {
+        "query_id": 23,
+        "query": "電気料金の値上げ",
+        "causal_search_direction": "e2c",
+        "depth": 3,
+        "branch": 4, 
+        "start_date_int": 20200101,
+        "end_date_int": 20241031,
+        "similarity_threshold": 0.8
+    },
+    {
+        "query_id": 24,
+        "query": "国内の景気回復",
+        "causal_search_direction": "e2c",
+        "depth": 3,
+        "branch": 4, 
+        "start_date_int": 20210101,
+        "end_date_int": 20241031,
+        "similarity_threshold": 0.8
+    },
+    {
+        "query_id": 25,
+        "query": "雇用環境の悪化",
+        "causal_search_direction": "e2c",
+        "depth": 3,
+        "branch": 4, 
+        "start_date_int": 20190101,
+        "end_date_int": 20241031,
+        "similarity_threshold": 0.8
+    },
+    {
+        "query_id": 26,
+        "query": "個人の消費マインドの好転",
+        "causal_search_direction": "e2c",
+        "depth": 3,
+        "branch": 4, 
+        "start_date_int": 20130101,
+        "end_date_int": 20191031,
+        "similarity_threshold": 0.8
+    },
+    {
+        "query_id": 27,
+        "query": "建築コストの高騰",
+        "causal_search_direction": "e2c",
+        "depth": 3,
+        "branch": 4, 
+        "start_date_int": 20200101,
+        "end_date_int": 20241031,
+        "similarity_threshold": 0.8
+    },
+    {
+        "query_id": 28,
+        "query": "人工知能技術への期待の高まり",
+        "causal_search_direction": "e2c",
+        "depth": 3,
+        "branch": 4, 
+        "start_date_int": 20130101,
+        "end_date_int": 20241031,
+        "similarity_threshold": 0.8
+    },
+    {
+        "query_id": 29,
+        "query": "研究開発投資の増加",
+        "causal_search_direction": "e2c",
+        "depth": 3,
+        "branch": 4, 
+        "start_date_int": 20140101,
+        "end_date_int": 20241031,
+        "similarity_threshold": 0.8
+    },
+    {
+        "query_id": 30,
+        "query": "医療制度や社会保障制度の崩壊",
+        "causal_search_direction": "e2c",
+        "depth": 3,
+        "branch": 4, 
+        "start_date_int": 20130101,
+        "end_date_int": 20241031,
+        "similarity_threshold": 0.8
+    }
+]
